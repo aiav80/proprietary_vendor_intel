@@ -1,0 +1,1 @@
+nv_by_chip=5 43430 0 nvram_ap6212.txt 43430 1 nvram_ap6212a.txt 43340 2 nvram_ap6234.txt 43341 2 nvram_ap6234.txt 0x4345 6 nvram_ap6255.txt
