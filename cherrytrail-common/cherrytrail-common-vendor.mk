@@ -22,7 +22,3 @@ $(call inherit-product, vendor/intel/cherrytrail-common/cherrytrail-common-vendo
 PRODUCT_PACKAGES += \
     com.intel.security.service.sepmanager
 
-# Prebuilt privileged APKs
-PRODUCT_PACKAGES += \
-    ituxd
-

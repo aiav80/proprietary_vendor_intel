@@ -91,7 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/intel/cherrytrail-common/proprietary/lib/libroute-subsystem.so:system/lib/libroute-subsystem.so \
     vendor/intel/cherrytrail-common/proprietary/lib/libtinyalsa_custom-subsystem.so:system/lib/libtinyalsa_custom-subsystem.so \
     vendor/intel/cherrytrail-common/proprietary/lib/libtinyalsa-subsystem.so:system/lib/libtinyalsa-subsystem.so \
-    vendor/intel/cherrytrail-common/proprietary/etc/firmware/bt/rtl8723b_config:system/etc/firmware/bt/rtl8723b_config \
     vendor/intel/cherrytrail-common/proprietary/etc/firmware/shisp_2401a0_v21.bin:system/etc/firmware/shisp_2401a0_v21.bin \
     vendor/intel/cherrytrail-common/proprietary/etc/camera_profiles.xml:system/etc/camera_profiles.xml \
     vendor/intel/cherrytrail-common/proprietary/lib/libcilkrts.so:system/lib/libcilkrts.so \
@@ -346,9 +345,6 @@ PRODUCT_COPY_FILES += \
     vendor/intel/cherrytrail-common/proprietary/etc/permissions/com.intel.security.service.sepmanager.xml:system/etc/permissions/com.intel.security.service.sepmanager.xml \
     vendor/intel/cherrytrail-common/proprietary/lib/libihamanagerjni.so:system/lib/libihamanagerjni.so \
     vendor/intel/cherrytrail-common/proprietary/lib/libsecurityclient.so:system/lib/libsecurityclient.so \
-    vendor/intel/cherrytrail-common/proprietary/etc/thermal_sensor_config.xml:system/etc/thermal_sensor_config.xml \
-    vendor/intel/cherrytrail-common/proprietary/etc/thermal_throttle_config.xml:system/etc/thermal_throttle_config.xml \
-    vendor/intel/cherrytrail-common/proprietary/lib/libthermalJNI.so:system/lib/libthermalJNI.so \
     vendor/intel/cherrytrail-common/proprietary/etc/video_isv_profile.xml:system/etc/video_isv_profile.xml \
     vendor/intel/cherrytrail-common/proprietary/lib/libisv_omx_core.so:system/lib/libisv_omx_core.so \
     vendor/intel/cherrytrail-common/proprietary/etc/mfx_omxil_core.conf:system/etc/mfx_omxil_core.conf \
